@@ -3,6 +3,6 @@
 
 int mian(int argc, char** argv)
 {
-    print("hello world!");
+    printf("hello world!");
     return 0;
 }
